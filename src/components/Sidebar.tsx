@@ -1,4 +1,3 @@
-import React from "react";
 import imgLogo from "../assets/images/logo.png";
 import ICMenu from "../assets/icons/menu-outline.svg";
 
